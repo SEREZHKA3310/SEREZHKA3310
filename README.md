@@ -1,1 +1,1 @@
-<h1 align='center'>HI</h1>
+<h1 align='center'><strong>HI</strong></h1>
